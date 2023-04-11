@@ -30,10 +30,10 @@
         src="https://github-profile-trophy.vercel.app/?username=m-RezaFahlevi&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
 </a>
 <a href="#">
-        <img alt="Trophy" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=8727D8&fire=FF0000&currStreakNum=00C0B5&sideNums=FF0000&currStreakLabel=19D6FF"/>
+        <img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=418ac5&currStreakLabel=4a9ee2"/>
 </a>
 <a href="#">
-	<img alt="GithubStats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=m-RezaFahlevi&count_private=true&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=8727D8&text_color=3B4252&bg_color=ffffff"/>
+	<img alt="GithubStats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=m-RezaFahlevi&count_private=true&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=316794&text_color=3B4252&bg_color=ffffff"/>
 </a>
 <a href="#">
 	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-RezaFahlevi&langs_count=20&hide=html,css,prolog,xslt,perl,jupyter%20notebook&layout=compact">
