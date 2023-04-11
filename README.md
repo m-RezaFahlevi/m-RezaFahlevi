@@ -1,6 +1,8 @@
 <!--CDN for bootstrap-icons-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=m-RezaFahlevi.m-RezaFahlevi&left_text=Profile%20Views)
+
 <a href="https://m-rezafahlevi.github.io">
 <img alt="MRF Laboratorium" src="www/MRFLabLogoBbDarkwithFLogo.png"/>
 </a>
