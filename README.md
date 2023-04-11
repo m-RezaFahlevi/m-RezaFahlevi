@@ -30,7 +30,7 @@
         src="https://github-profile-trophy.vercel.app/?username=m-RezaFahlevi&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
 </a>
 <a href="#">
-        <img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=418ac5&currStreakLabel=4a9ee2"/>
+        <img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=4a9ee2&currStreakLabel=4a9ee2"/>
 </a>
 <a href="#">
 	<img alt="GithubStats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=m-RezaFahlevi&count_private=true&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=316794&text_color=3B4252&bg_color=ffffff"/>
