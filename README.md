@@ -27,25 +27,38 @@
 <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
-## My Statistics
+<details>
+	<summary><h2><b>My Bio</b></h2></summary>
+	<p>Just a person who feel delightful in <i>science of computation</i>, thus, I dedicated
+	most of my time in it. I use this GitHub as a place of repository of my works such as
+	code, R package, notebook, and manuscript.<br/>
+	I am <i>computer science</i> graduated and my speciality are
+	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, Statistics.</b><br/>
+	My current interest are <b>Evolutionary Algorithms and Genetic Algorithms : Theory and Practice.</b></p>
+</details>
 
-<a href="#">
-        <img alt="Trophy" 
-        src="https://github-profile-trophy.vercel.app/?username=m-RezaFahlevi&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
-</a>
-<a href="#">
-        <img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=4a9ee2&currStreakLabel=4a9ee2"/>
-</a>
-<a href="#">
-	<img alt="GithubStats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=m-RezaFahlevi&count_private=true&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=316794&text_color=3B4252&bg_color=ffffff"/>
-</a>
-<a href="#">
-	<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-RezaFahlevi&langs_count=20&hide=html,css,prolog,xslt,perl,jupyter%20notebook&layout=compact">
-</a>
+<details>
+	<summary><h2><b>My Statistics</b></h2></summary>
+	<p align="center">
+		<a href="#">
+        		<img alt="Trophy" 
+        		src="https://github-profile-trophy.vercel.app/?username=m-RezaFahlevi&row=1&column=6&margin-w=20&theme=flat&no-bg=true&no-frame=true"/>
+		</a>
+		<a href="#">
+        		<img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=4a9ee2&currStreakLabel=4a9ee2"/>
+		</a>
+		<a href="#">
+			<img alt="GithubStats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=m-RezaFahlevi&count_private=true&show_icons=true&hide_border=false&icon_color=25A8E1&title_color=316794&text_color=3B4252&bg_color=ffffff"/>
+		</a>
+		<a href="#">
+			<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-RezaFahlevi&langs_count=20&hide=html,css,prolog,xslt,perl,jupyter%20notebook&layout=compact">
+		</a>
+	</p>
+</details>
 
-## My Skill Set
-
-<i class="bi bi-code-slash"></i> Web development
+<details>
+	<summary><h2><b>My Skill Set</b></h2></summary>
+	<i class="bi bi-code-slash"></i> Web development
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -64,3 +77,4 @@
 Etc
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+</details>
