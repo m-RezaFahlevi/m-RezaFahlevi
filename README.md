@@ -28,9 +28,9 @@
 </a>
 
 <details>
-	<summary><h2><b>My Bio</b></h2></summary>
-	<p>Just a person who feel delightful in <i>science of computation</i>, thus, I dedicated
-	most of my time in it. I use this GitHub as a place of repository of my works such as
+	<summary><h2><b>👨‍🏫 My Bio</b></h2></summary>
+	<p>👋 Hi there, here just a 🇮🇩 person who feel delightful in <i>science of computation</i> 💻📚.
+	I use this GitHub as a place of repository of my works ✒️ such as
 	code, R package, notebook, and manuscript.<br/>
 	I am <i>computer science</i> graduated and my speciality are
 	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, Statistics.</b><br/>
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-	<summary><h2><b>My Statistics</b></h2></summary>
+	<summary><h2><b>📊 My Statistics</b></h2></summary>
 	<p align="center">
 		<a href="#">
         		<img alt="Trophy" 
@@ -57,7 +57,7 @@
 </details>
 
 <details>
-	<summary><h2><b>My Skill Set</b></h2></summary>
+	<summary><h2><b>🚀 My Skill Set</b></h2></summary>
 	<i class="bi bi-code-slash"></i> Web development
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
