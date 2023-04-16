@@ -32,7 +32,7 @@
 	<p>👋 Hi there, here just a 🇮🇩 person who feel delightful in <i>science of computation</i> 💻📚.
 	I use this GitHub as a place of repository of my works ✒️ such as
 	code, R package, notebook, and manuscript.<br/>
-	I am <i>computer science</i> graduated and my speciality are
+	I am <i>a cum laude computer science graduated</i> 🎓 and my speciality are
 	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, Statistics.</b><br/>
 	My current interest are <b>Evolutionary Algorithms and Genetic Algorithms : Theory and Practice.</b></p>
 </details>
