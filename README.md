@@ -5,26 +5,27 @@
     <img src="https://komarev.com/ghpvc/?username=m-RezaFahlevi&color=316794&style=plastic&label=👁️+Profile+Views">
 </p>
 
-<a href="https://m-rezafahlevi.github.io">
+<a href="https://m-rezafahlevi.github.io" target="_blank">
 <img alt="MRF Laboratorium" src="www/MRFLabLogoBbDarkwithFLogo.png"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=316794&width=435&lines=Founder+of+MRF+Laboratorium+Website;Computer+Science+Alumnus;A+Long+Life+Learner)](https://git.io/typing-svg)
 
 <a href="mailto:muhammadrezafahlevi666@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://instagram.com/muhammmadrezafahlevi666">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://instagram.com/muhammmadrezafahlevi666" target="_blank">
+	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/muhammad-reza-f-a12514135?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXsRXgkI9R4W1R4zqh3OmPQ%3D%3D">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/muhammad-reza-f-a12514135?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXsRXgkI9R4W1R4zqh3OmPQ%3D%3D"
+   target="_blank">
+	<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/M.RezaFahlevis/">
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+<a href="https://www.facebook.com/M.RezaFahlevis/" target="_blank">
+	<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
-<a href="https://twitter.com/Muhamma36269781">
-<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+<a href="https://twitter.com/MrfLaboratorium" target="_blank">
+	<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
 <details>
