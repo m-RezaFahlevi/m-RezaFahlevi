@@ -28,6 +28,10 @@
 	<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
+<p align="center">
+	<img alt="welcome" src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif"/>
+</p>
+
 <details>
 	<summary><h2><b>👨‍🏫 My Bio</b></h2></summary>
 	<p>👋 Hi there, here just a 🇮🇩 person who feel delightful in <i>science of computation</i> 💻📚.
