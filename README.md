@@ -11,10 +11,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=316794&width=435&lines=Founder+of+MRF+Laboratorium+Website;Computer+Science+Alumnus;A+Long+Life+Learner)](https://git.io/typing-svg)
 
-<p align="center">
-	<img alt="welcome" src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif" width="100%"/>
-</p>
-
 <a href="mailto:muhammadrezafahlevi666@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -31,7 +27,9 @@
 <a href="https://twitter.com/MrfLaboratorium" target="_blank">
 	<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-
+<p align="center">
+	<img alt="welcome" src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif"/>
+</p>
 <details>
 	<summary><h2><b>👨‍🏫 My Bio</b></h2></summary>
 	<p>👋 Hi there, here just a 🇮🇩 person who feel delightful in <i>science of computation</i> 💻📚.
