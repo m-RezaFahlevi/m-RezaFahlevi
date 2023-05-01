@@ -5,15 +5,15 @@
     <img src="https://komarev.com/ghpvc/?username=m-RezaFahlevi&color=316794&style=plastic&label=👁️+Profile+Views">
 </p>
 
-<p align="center">
-	<img alt="welcome" src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif"/>
-</p>
-
 <a href="https://m-rezafahlevi.github.io" target="_blank">
 <img alt="MRF Laboratorium" src="www/MRFLabLogoBbDarkwithFLogo.png"/>
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=316794&width=435&lines=Founder+of+MRF+Laboratorium+Website;Computer+Science+Alumnus;A+Long+Life+Learner)](https://git.io/typing-svg)
+
+<p align="center">
+	<img alt="welcome" src="https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif" width="100%"/>
+</p>
 
 <a href="mailto:muhammadrezafahlevi666@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
