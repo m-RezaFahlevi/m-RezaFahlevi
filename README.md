@@ -40,7 +40,7 @@
 	code, R package, notebook, and manuscript.<br/>
 	I am <i>a cum laude computer science graduated</i> 🎓 and my speciality are
 	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, Statistics.</b><br/>
-	My current interest are <b>Evolutionary Algorithms and Genetic Algorithms : Theory and Practice.</b></p>
+	My current interest are <b>Evolution Strategy Algorithms and Genetic Algorithms : Theory and Practice.</b></p>
 </details>
 
 <details>
