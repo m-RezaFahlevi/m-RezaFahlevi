@@ -9,7 +9,7 @@
 <img alt="MRF Laboratorium" src="https://github.com/m-RezaFahlevi/m-RezaFahlevi.github.io/blob/main/www/FahlevisiaWallpaper.png"/>
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=316794&width=435&lines=Founder+of+MRF+Laboratorium+Website;Computer+Science+Alumnus;A+Long+Life+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=313352&width=435&lines=Indonesia;Founder+of+Fahlevisia+Website;Computer+Science;A+Long+Life+Learner)](https://git.io/typing-svg)
 
 <a href="mailto:muhammadrezafahlevi666@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
