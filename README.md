@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://www.fahlevisia.com" target="_blank">
-<img alt="Fahlevisia" src="https://github.com/m-RezaFahlevi/m-RezaFahlevi.github.io/blob/main/www/FahlevisiaWallpaper.png"/>
+<img alt="Fahlevisia" src="https://raw.githubusercontent.com/m-RezaFahlevi/m-RezaFahlevi/main/www/FahlevisiaWallpaperImproved2.png" />
 </a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=6b70b3&width=435&lines=Indonesia;Founder+of+Fahlevisia+Website;Computer+Science;A+Long+Life+Learner)](https://git.io/typing-svg)
