@@ -39,7 +39,7 @@
 	I use this GitHub as a place of repository of my works ✒️ such as
 	code, R package, notebook, and manuscript.<br/>
 	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, and Statistics</b> are my favorite subjects.<br/>
-	My current interest are <b>Evolution Strategy Algorithms and Genetic Algorithms : Theory and Practice.</b></p>
+	My current interest are <b>Numerical Algorithms</b></p>
 </details>
 
 <details>
