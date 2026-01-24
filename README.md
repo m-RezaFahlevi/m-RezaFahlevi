@@ -1,15 +1,19 @@
 <!--CDN for bootstrap-icons-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
 
+<p align="center">
+	<img src="https://m-rezafahlevi.github.io/www/fahlevisiawhite.svg" alt="EndeavourOS with KDE Plasma 6"/>
+</p>
+
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=m-RezaFahlevi&color=316794&style=plastic&label=👁️+Profile+Views">
 </p>
 
 <a href="https://m-rezafahlevi.github.io/mrfahlevi/" target="_blank">
-<img alt="Fahlevisia" src="https://raw.githubusercontent.com/m-RezaFahlevi/m-RezaFahlevi/main/www/FahlevisiaWallpaperImproved2.png" />
+<img alt="Fahlevisia" src="https://raw.githubusercontent.com/m-RezaFahlevi/m-RezaFahlevi/refs/heads/main/www/kde_plasma6.png" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=1000&color=6b70b3&width=435&lines=Indonesia;Founder+of+Fahlevisia+Website;Computer+Science;A+Long+Life+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Numerical+Algorithms;-std%3Dc%2B%2B14+-std%3Dc%2B%2B17;Computer+Science;Indonesia)](https://git.io/typing-svg)
 
 <a href="mailto:muhammadrezafahlevi666@gmail.com">
 	<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -35,11 +39,11 @@
 </p>
 <details>
 	<summary><h2><b>👨‍🏫 My Bio</b></h2></summary>
-	<p>👋 Hi there, here just a 🇮🇩 person who feel delightful in <i>science of computation</i> 💻📚.
+	<p>👋 Hi there, here just an Indonesian (🇮🇩) who feel delightful in <i>science of computation</i> 💻📚.
 	I use this GitHub as a place of repository of my works ✒️ such as
 	code, R package, notebook, and manuscript.<br/>
 	<b>Heuristic Method, Numerical Analysis, Probability Theory & Stochastics Proccess, and Statistics</b> are my favorite subjects.<br/>
-	My current interest are <b>Numerical Algorithms</b></p>
+	My current interest is <b>Numerical Algorithms</b>. </p>
 </details>
 
 <details>
@@ -64,9 +68,12 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 
-<i class="bi bi-laptop"></i> Operating Systems
+<i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
 
+![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+Currently, I use EndeavourOS Linux and MS Windows 11  as my daily operating system.
 
 <i class="bi bi-code-square"></i> Code Editors and IDE
 
