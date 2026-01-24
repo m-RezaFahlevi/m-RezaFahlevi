@@ -12,6 +12,7 @@
 <a href="https://m-rezafahlevi.github.io/mrfahlevi/" target="_blank">
 <img alt="Fahlevisia" src="https://raw.githubusercontent.com/m-RezaFahlevi/m-RezaFahlevi/refs/heads/main/www/kde_plasma6.png" />
 </a>
+<p>Desktop wallpaper by <a src="https://www.reddit.com/r/FrutigerAero/comments/12lu6wv/frutiger_aero_11/">https://www.reddit.com/r/FrutigerAero/comments/12lu6wv/frutiger_aero_11/</a></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&width=435&lines=Numerical+Algorithms;-std%3Dc%2B%2B14+-std%3Dc%2B%2B17;Computer+Science;Indonesia)](https://git.io/typing-svg)
 
