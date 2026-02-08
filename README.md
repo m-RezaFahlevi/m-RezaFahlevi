@@ -92,6 +92,7 @@ The programming languages that I heavily use.
   <tr>
 </table>
 <br><br>
+	
 </div>
 
 The programming languages that I familiar with.
@@ -119,6 +120,7 @@ The programming languages that I familiar with.
   <tr>
 </table>
 <br><br>
+	
 </div>
 
 <i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
