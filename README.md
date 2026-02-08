@@ -69,8 +69,6 @@ Desktop wallpaper by
 
 <i class="bi bi-terminal"></i> Computation
 
-The programming languages that I heavily use.
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -88,28 +86,16 @@ The programming languages that I heavily use.
     		<img src="https://skillicons.dev/icons?i=r" width="65" height="65"/>
     		<br/>R
     </td>
-  </tr>
-  <tr>
-</table>
-<br><br>
-	
-</div>
-
-The programming languages that I familiar with.
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
     <td align="center" width="96">
     		<img src="https://m-rezafahlevi.github.io/www/skill_svg/animated-logo.gif" width="65" height="65" style="border-radius:1pc;"/>
     		<br/>Julia
     </td>
 	<td align="center" width="96">
-    		<img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="border-radius:1pc;"/>
+    		<img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="border-radius: 1pc;"/>
     		<br/>Java
     </td>
     <td align="center" width="96">
-    		<img src="https://skillicons.dev/icons?i=octave" width="65" height="65" style="border-radius:1pc;"/>
+    		<img src="https://skillicons.dev/icons?i=octave" width="65" height="65" style="border-radius: 1pc;"/>
     		<br/>Octave
     </td>
 	<td align="center" width="96">
@@ -120,7 +106,7 @@ The programming languages that I familiar with.
   <tr>
 </table>
 <br><br>
-	
+
 </div>
 
 <i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
