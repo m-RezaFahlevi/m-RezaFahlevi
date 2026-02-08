@@ -12,7 +12,7 @@
 <a href="https://m-rezafahlevi.github.io/mrfahlevi/" target="_blank">
 <img alt="Fahlevisia" src="https://raw.githubusercontent.com/m-RezaFahlevi/m-RezaFahlevi/refs/heads/main/www/kde_plasma6.png" />
 </a>
-<p>Desktop wallpaper by</p>
+Desktop wallpaper by
 
 [https://www.reddit.com/r/FrutigerAero/comments/12lu6wv/frutiger_aero_11/](https://www.reddit.com/r/FrutigerAero/comments/12lu6wv/frutiger_aero_11/)
 
@@ -69,7 +69,57 @@
 
 <i class="bi bi-terminal"></i> Computation
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+The programming languages that I heavily use.
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=r" width="65" height="65"/>
+    		<br/>R
+    </td>
+  </tr>
+  <tr>
+</table>
+<br><br>
+</div>
+
+The programming languages that I familiar with.
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+    		<img src="https://m-rezafahlevi.github.io/www/skill_svg/animated-logo.gif" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Julia
+    </td>
+	<td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Java
+    </td>
+    <td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=octave" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Octave
+    </td>
+	<td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=lua" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Lua
+    </td>
+  </tr>
+  <tr>
+</table>
+<br><br>
+</div>
 
 <i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
 
