@@ -31,7 +31,7 @@ Desktop wallpaper by
 <a href="https://www.facebook.com/M.RezaFahlevis/" target="_blank">
 	<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
-<a href="https://twitter.com/MrfLaboratorium" target="_blank">
+<a href="https://twitter.com/mrf_fahlevi" target="_blank">
 	<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
