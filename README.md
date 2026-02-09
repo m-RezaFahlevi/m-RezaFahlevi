@@ -157,13 +157,6 @@ Desktop wallpaper by
 
 </div>
 
-<i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
-
-![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=for-the-badge)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-Currently, I use **EndeavourOS** Linux and **MS Windows 11**  as my daily operating system.
-
 <i class="bi bi-code-square"></i> Code Editors and IDE
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -211,6 +204,13 @@ Currently, I use **EndeavourOS** Linux and **MS Windows 11**  as my daily operat
 <br><br>
 
 </div>
+
+<i class="bi bi-laptop"></i> Operating Systems (I've Ever Use)
+
+![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+Currently, I use **EndeavourOS** Linux and **MS Windows 11**  as my daily operating system.
 
 Etc
 
