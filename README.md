@@ -65,7 +65,54 @@ Desktop wallpaper by
 	<summary><h2><b>🚀 My Skill Set</b></h2></summary>
 	<i class="bi bi-code-slash"></i> Web development
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" height="65" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+    		<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+    		<br/>Javascript
+    </td>
+    <td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Bootstrap
+    </td>
+	<td align="center" width="96">
+    		<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" style="border-radius: 1pc;"/>
+    		<br/>MySQL
+    </td>
+    <td align="center" width="96">
+    		<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" style="border-radius: 1pc;"/>
+    		<br/>GitHub
+    </td>
+	<td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=bash" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Bash
+    </td>
+    	<td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=git" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Git
+    </td>
+        	<td align="center" width="96">
+    		<img src="https://skillicons.dev/icons?i=md" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>Markdown
+    </td>
+  </tr>
+  <tr>
+</table>
+<br><br>
+
+</div>
+
 
 <i class="bi bi-terminal"></i> Computation
 
@@ -91,7 +138,7 @@ Desktop wallpaper by
     		<br/>Julia
     </td>
 	<td align="center" width="96">
-    		<img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="border-radius: 1pc;"/>
+    		<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" style="border-radius: 1pc;"/>
     		<br/>Java
     </td>
     <td align="center" width="96">
@@ -114,11 +161,55 @@ Desktop wallpaper by
 ![EndeavourOS Badge](https://img.shields.io/badge/EndeavourOS-7F7FFF?logo=endeavouros&logoColor=fff&style=for-the-badge)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-Currently, I use EndeavourOS Linux and MS Windows 11  as my daily operating system.
+Currently, I use **EndeavourOS** Linux and **MS Windows 11**  as my daily operating system.
 
 <i class="bi bi-code-square"></i> Code Editors and IDE
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&&logo=neovim&logoColor=fff) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+      <td align="center" width="96">
+        <img src="https://avatars.githubusercontent.com/u/88978340?s=200&v=4" alt="icon" width="65" height="65" style="border-radius: 1pc;"/>
+      <br>NvChad
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=neovim" alt="icon" width="65" height="65" />
+      <br>Neovim
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
+      <br>VIM
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" height="65" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+    		<img src="https://raw.githubusercontent.com/posit-dev/positron/refs/heads/main/positron-product-icons/positron.png" width="65" height="65"/>
+    		<br/>Positron
+    </td>
+    <td align="center" width="96">
+    		<img src="https://avatars.githubusercontent.com/u/513560?s=200&v=4" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>RStudio
+    </td>
+    <td align="center" width="96">
+    		<img src="https://raw.githubusercontent.com/KDE/ghostwriter/1a4c3e5a67b63a69c57951bdf68fb73f0d7a5647/resources/icons/sc-apps-ghostwriter.svg" width="65" height="65" style="border-radius:1pc;"/>
+    		<br/>ghostwriter
+    </td>
+    <td align="center" width="96">
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Lyx_Logo.svg" width="65" height="65"/>
+    		<br/>LyX
+    </td>
+  </tr>
+  <tr>
+</table>
+<br><br>
+
+</div>
 
 Etc
 
