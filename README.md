@@ -56,7 +56,7 @@ Desktop wallpaper by
         		<img alt="GitHubStreakStats" src="https://github-readme-streak-stats.herokuapp.com/?user=m-RezaFahlevi&stroke=25A8E1&ring=316794&fire=4a9ee2&currStreakNum=4a9ee2&sideNums=4a9ee2&currStreakLabel=4a9ee2"/>
 		</a>
 		<a href="#">
-			<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-RezaFahlevi&langs_count=20&hide=html,css,prolog,xslt,perl,jupyter%20notebook&layout=compact">
+			<img alt="Top Language" src="./profile/stats.svg">
 		</a>
 	</p>
 </details>
